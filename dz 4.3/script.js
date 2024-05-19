@@ -14,4 +14,4 @@ if (!uzerCity) {
 }
 else {
     alert(`Ти живеш у місті ${uzerCity}.`)
-}
+    }
